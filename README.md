@@ -1,1 +1,1 @@
-Boilerplate code for redundant & frequently used web development projects.
+Reusable code commonly used in full stack web development projects.
